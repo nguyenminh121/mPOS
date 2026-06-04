@@ -1,0 +1,14 @@
+{
+    "agents": [
+        "cursor"
+    ],
+    "packages": [
+        "inertiajs/inertia-laravel"
+    ],
+    "skills": [
+        "wayfinder-development",
+        "pest-testing",
+        "inertia-vue-development",
+        "tailwindcss-development"
+    ]
+}
